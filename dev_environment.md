@@ -1,0 +1,40 @@
+## Development Environment References
+
+-   Message Queue: RabbitMQ
+    -   https://cheese10yun.github.io/spring-rabbitmq/
+-   UI: Free Template List
+    -   https://tabler.io/
+    -   https://adminlte.io/
+    -   https://startbootstrap.com/theme/sb-admin-2
+-   NHN Cloud
+    -   Secure Key manager
+        -   https://www.nhncloud.com/kr/service/security/secure-key-manager
+        -   https://docs.nhncloud.com/ko/Security/Secure%20Key%20Manager/ko/overview/
+    -   **Object Storage**
+        -   https://docs.nhncloud.com/ko/Storage/Object%20Storage/ko/Overview/
+    -   **Image Manager**
+        -   https://docs.nhncloud.com/ko/Contents%20Delivery/Image%20Manager/ko/Overview/
+        -   이미지의 저장, 편집 그리고 전송 기능까지 한번에 제공하는 서비스
+    -   **Container Registry**
+        -   https://docs.nhncloud.com/ko/Container/NCR/ko/overview/
+        -   Docker 컨테이너 이미지를 쉽고 안전하게 저장, 관리하고 배포할 수 있는 컨테이너 레지스트리 서비스
+    -   **Load Balancer**
+        -   https://docs.nhncloud.com/ko/Network/Load%20Balancer/ko/overview/
+        -   로드 밸런서, 부하 분산
+    -   **Log & Crash Search**
+        -   로그를 수집하여 원하는 로그를 검색하고 조회하는 시스템
+            -   https://docs.nhncloud.com/ko/Data%20&%20Analytics/Log%20&%20Crash%20Search/ko/Overview/
+-   NHN Cloud
+    -   Spring Cloud Gateway
+    -   Spring Cloud Eureka
+    -   Spring Cloud openfegin
+    -   다음 예제를 참고 합니다.
+    -   https://github.com/nhnacademy-bootcamp/project-spring-cloud
+-   JWT 기반 인증
+    -   [https://github.com/nhnacademy-bootcamp/shoppingmall-spring-cloud/blob/main/docs/04.Account-인증구현.adoc](https://github.com/nhnacademy-bootcamp/shoppingmall-spring-cloud/blob/main/docs/04.Account-%EC%9D%B8%EC%A6%9D%EA%B5%AC%ED%98%84.adoc)
+-   로깅
+    -   logback 적용
+    -   log & crash 적용
+    -   https://www.nhncloud.com/kr/service/data-analytics/log-crash-search
+-   다국어 지원
+    -   i18next: [https://velog.io/@haerong22/Springboot-쿠키를-이용한-다국어-처리-i18n](https://velog.io/@haerong22/Springboot-%EC%BF%A0%ED%82%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%B2%98%EB%A6%AC-i18n)
