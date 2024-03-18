@@ -52,3 +52,9 @@
 - url: http://133.186.223.228:8080/
 - id: no24
 - pwd: DQe6w@k[W(j0&ow
+
+## MySQL 계정
+ip: 133.186.223.228
+port: 3306
+id: no24
+pwd: Yl7S8M.o9D7HQtTF
