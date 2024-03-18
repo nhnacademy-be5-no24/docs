@@ -42,7 +42,13 @@
 
 ## SonarQube 계정
 
-ip: 133.186.223.228
-port: 9000
-id: no24
-pwd: zsgmpZEymEWPL~^W5Ey7
+- ip: 133.186.223.228
+- port: 9000
+- id: no24
+- pwd: zsgmpZEymEWPL~^W5Ey7
+
+## Jenkins 계정
+
+- url: http://133.186.223.228:8080/
+- id: no24
+- pwd: DQe6w@k[W(j0&ow
