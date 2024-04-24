@@ -58,3 +58,6 @@ ip: 133.186.223.228
 port: 3306
 id: no24
 pwd: Yl7S8M.o9D7HQtTF
+
+## Object Storage
+key: a4d6d55cc956f5bc1b98c846962e1ffcaef06bb2
